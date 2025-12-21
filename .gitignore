@@ -1,0 +1,60 @@
+# Vivado生成ファイル
+*.jou
+*.log
+*.pb
+*.wdb
+*.xpr
+.Xil/
+vivado*.backup.*
+*.str
+
+# シミュレーション結果
+*.vcd
+*.wlf
+*.vstf
+xsim.dir/
+work/
+webtalk.jou
+webtalk.log
+xelab.pb
+xsim.ini
+xvlog.pb
+
+# ビルド成果物
+*.bit
+*.bin
+*.mmi
+*.ltx
+*.dcp
+*.rpt
+*.xml
+
+# 一時ファイル
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# IDE設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# C言語コンパイル結果
+*.o
+*.exe
+a.out
+ref.hex
+weekday.txt
+weekday.coe
+
+# OS固有
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
